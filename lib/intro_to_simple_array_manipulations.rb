@@ -20,6 +20,6 @@ def using_delete(array, string)
 end
 
 def delete_at(array, n)
-  array.deleteat] 
+  array.delete_at[n]
 end
   
